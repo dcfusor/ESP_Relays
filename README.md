@@ -23,7 +23,7 @@ protected from rain but not really, and no protection from the bugs and weeds.  
 I pulled it indoors to use for other things.
 
 In fact, this is the first time I've noticed it might have been a good idea to use that library that emits an access point
-and webpage to configure it if it can't fine a WAP - as I just moved it out of range of one, and I had to actually get in 
+and webpage to configure it if it can't find the WAP - as I just moved it out of range of one, and I had to actually get in 
 there and program it to find the other one - that's left as an excercise for the reader, I did the hard part for ya.
 
 It looks like the page on the right in this screen capture - I've just re-booted it, so it doesn't have 24 hours of history yet, and taken it from next to a woodstove to the cool kitchen, so it shows that.  The controls link gets you to a page

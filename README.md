@@ -7,11 +7,11 @@ make a schematic.  The pinouts used are in the code of course.
 
 This controls 4 outlets via the relays, and senses weather, not super accurate as the sensor is inside the outlet box, but
 it's close enough for my needs.  Do I need a coat to go out there?  Does the block heater or battery charger for the big
-diesel backup generator need to to awhile before I go out to start it?
+diesel backup generator need to run awhile before I go out to start it?
 
 This kicks around the place being useful - I may build more, in which case I suppose I'd better update the web page title so
-as to tell them apart!  Right now, it's in my mostly -unheated kitchen and used to control an electric teapot, so 
-my water will be ready to go when I broach the morning chill to make tea.  And again, notice how cold it is in the kitchen, which can be important in winter here.
+as to tell them apart!  Right now, it's in my mostly-unheated kitchen and used to control an electric teapot, so 
+my water will be ready to go when I broach the morning chill to make tea.  And again, notice how cold it is in the kitchen, which can be important in winter here when you're still in sleeping garb.
 
 This demonstrates my little scheduler, and controls the relays via a CGI (in C) using the ESP web server library.  The
 weather data is from the usual SHT31, and is displayed over the last 24 hours in a rolling buffer using SVG graphics.

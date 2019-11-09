@@ -28,7 +28,8 @@ there and program it to find the other one - that's left as an excercise for the
 
 It looks like the page on the right in this screen capture - I've just re-booted it, so it doesn't have 24 hours of history yet, and taken it from next to a woodstove to the cool kitchen, so it shows that.  The controls link gets you to a page
 that lets you set the state of the relays.  Nothing fancy, doing CGI in C in a limited uP, well, the bear can dance, if
-not amazingly ornate.
+not amazingly ornate.  The window on the left is another one, sans relays, upstairs in my machine shop, showing it warming up 
+in there today as I put a fire in the woodstove in that building. (Vivaldi tiles are cool)
 
 ![screenshot of web page](https://github.com/dcfusor/ESP_Relays/blob/master/ESPRelays.png)
 
